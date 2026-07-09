@@ -1,1 +1,1 @@
-# Deteksi Faringitis Pada Citra Tenggorokan Menggunakan Metode Soft Voting Ensemble dengan Kombinasi Fitur GLCM, LBP, dan HSV Color Moments
+# Klasifikasi Penyakit Faringitis
