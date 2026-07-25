@@ -1,1 +1,1 @@
-# Klasifikasi Penyakit Faringitis
+# Klasifikasi Faringitis
